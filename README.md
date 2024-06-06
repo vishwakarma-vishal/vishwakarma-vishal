@@ -1,44 +1,51 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Vishal Vishwakarma</h1>
-<h3 align="center">React Developer</h3>
-- 🌱 I’m currently learning **MERN **
-- 💬 Ask me about **React**
-- 📫 How to reach me **vishal.vishwakarma.dev@gmail.com**
+# 🌟 Welcome to My GitHub Profile! 🌟
 
-<div> <a href="https://www.linkedin.com/in/vishwakarma-vishal2001" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/vishwakarma-vishal" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:vishal.vishwakarma.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishwakarma-vishal2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="vishwakarma-vishal2001" height="30" width="40" /></a></p>
+Hi there! I'm Vishal, a passionate developer with a knack for creating stunning frontend experiences and a keen interest in mastering Data Structures and Algorithms with C++. Here's a glimpse into my coding journey, projects, and what makes me tick.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-</p>
+![Banner](https://media.giphy.com/media/26FPOzt0M7X4O2vHG/giphy.gif)
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakarma-vishal&layout=compact&theme=" alt=vishwakarma-vishal />
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vishwakarma-vishal&show_icons=true&locale=en&theme=" alt="vishwakarma-vishal" /></p>
+- 🎨 Frontend Developer: Crafting beautiful and responsive web interfaces.
+- 💻 Languages & Frameworks: HTML, CSS, JavaScript, Tailwind CSS, React.
+- 🔭 Currently delving into the world of DSA with C++.
+- 🌱 Always learning and experimenting with new technologies.
+- 🤝 Open to collaborations on exciting projects.
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwakarma-vishal&theme=default" alt="vishwakarma-vishal" /></p>
+## 🛠️ Technologies & Tools
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/vishwakarma-vishal">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishwakarma-vishal&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishwakarma-vishal&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishwakarma-vishal&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishwakarma-vishal&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwakarma-vishal&theme=2077" height="180em" />
-</div>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 📈 GitHub Stats
+
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwakarma-vishal&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakarma-vishal&layout=compact&theme=radical)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishwakarma-vishal&theme=radical)
+
+
+## 📫 How to Reach Me
+
+- **Email:** [momentcoder@gmail.com](mailto:momentcoder@gmail.com)
+- **LinkedIn:** [Vishal's LinkedIn](https://www.linkedin.com/in/vishwakarma-vishal2001/)
+
+
+## 🎉 Thanks for Visiting!
+
+Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects or just have a chat about tech!
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=vishwakarma-vishal.vishwakarma-vishal)
+
+---
+
+*✨ Keep coding and keep growing! ✨*
