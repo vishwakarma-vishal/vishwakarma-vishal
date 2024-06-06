@@ -2,7 +2,7 @@
 
 Hi there! I'm Vishal, a passionate developer with a knack for creating stunning frontend experiences and a keen interest in mastering Data Structures and Algorithms with C++. Here's a glimpse into my coding journey, projects, and what makes me tick.
 
-![Banner](https://media.giphy.com/media/26FPOzt0M7X4O2vHG/giphy.gif](https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611s8vr6za2a8u4nmtyzeflryeq5frf8v1ohwzro9l5&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+<img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611s8vr6za2a8u4nmtyzeflryeq5frf8v1ohwzro9l5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Tech Enthusiast">
 
 ## 🚀 About Me
 
